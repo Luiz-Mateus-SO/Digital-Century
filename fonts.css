@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'LimeLight Regular';
+  src: url('./fonts/Limelight/Limelight-Regular.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Bold';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Bold Italic';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Italic';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Regular';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Semi Bold';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Semi Bold Italic';
+  src: url('./fonts/adobe-caslon-pro/ACaslonPro-SemiboldItalic.otf') format('opentype');
+}
+
